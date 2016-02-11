@@ -3,10 +3,7 @@ package example.paramconverter;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 
-/**
- * @author Arun Gupta
- * @author Xavier coulon
- */
+
 @Path("/endpoint")
 public class MyResource {
 
